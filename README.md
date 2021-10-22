@@ -3,8 +3,7 @@ Implementations of a autoencoder, convolutional autoencoder, variational autoenc
 
 Autoencoder:
 
-![Screenshot](autoencoder_test_samples.png)
-![Screenshot](autoencoder_test_reconstructed.png)
+![Screenshot](autoencoder_test_samples.png) ![Screenshot](autoencoder_test_reconstructed.png)
 
 ![Screenshot](autoencoder_perf_mnist.png)
 
